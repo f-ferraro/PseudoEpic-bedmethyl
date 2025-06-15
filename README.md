@@ -31,7 +31,7 @@ bedtools intersect \
 
 # Finally use the Rscript to generate input for EpigenCentral
 Rscript R_preprocess_modkitoutput.R \ 
-  sampleID path/to/input.tsv \
+  sampleID \
   /path/to/sampleID.pseudoepic.bed.cpgID
   /path/to/EpigenCentral.input.tsv
 ```
