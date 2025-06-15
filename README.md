@@ -35,3 +35,5 @@ Rscript R_preprocess_modkitoutput.R \
   /path/to/sampleID.pseudoepic.bed.cpgID
   /path/to/EpigenCentral.input.tsv
 ```
+
+Finally upload the `.tsv` to [EpigenCentral](https://epigen.ccm.sickkids.ca/) and follow on screen commands.
