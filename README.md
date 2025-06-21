@@ -1,7 +1,7 @@
 # PseudoEpic-bedmethyl
 
 The following commands can be used to extract methylation data and reformat it for analysis in [EpigenCentral](https://epigen.ccm.sickkids.ca/), as described in:
-`Nanopore long-read sequencing for the critically ill facilitates ultrarapid diagnostics and urgent clinical decision making`, Smits et al., *Under revision*
+`Nanopore long-read sequencing for the critically ill facilitates ultrarapid diagnostics and urgent clinical decision making`, Smits D., Ferraro F., Drost M. et al., 2025 *Under revision*
 
 
 
@@ -12,7 +12,7 @@ Please make sure the following programs are available:
   - [bedtools](https://bedtools.readthedocs.io/en/latest/)
   - base R
 
-Download also the annotation file provided in this repo: `EPIC_hg38_stranded.bed`. 
+Download also the EPIC array annotation file provided in this repo: `EPIC_hg38_stranded.bed`. 
 
 ```bash
 # Tabulate methylation data 
