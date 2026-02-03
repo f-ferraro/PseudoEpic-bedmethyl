@@ -1,14 +1,14 @@
 # PseudoEpic-bedmethyl
 
 The following commands can be used to extract methylation data and reformat it for analysis in [EpigenCentral](https://epigen.ccm.sickkids.ca/), as described in:
-`Nanopore long-read sequencing for the critically ill facilitates ultrarapid diagnostics and urgent clinical decision making`, Smits D., Ferraro F., Drost M. et al., 2025 *Under revision*
+[`Nanopore long-read sequencing for the critically ill facilitates ultrarapid diagnostics and urgent clinical decision making`, Smits D., Ferraro F., Drost M. et al., European Journal of Human Genetics volume 34, pages 108–118 (2026)](https://www.nature.com/articles/s41431-025-01959-x)
 
 
 
 ## Requirements
 Please make sure the following programs are available:
 
-  - [modkit](https://github.com/nanoporetech/modkit)
+  - [modkit](https://github.com/nanoporetech/modkit) v0.3.0
   - [bedtools](https://bedtools.readthedocs.io/en/latest/)
   - base R
 
